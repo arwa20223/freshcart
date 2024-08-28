@@ -4,10 +4,7 @@ import style from './Footer.module.css'
 export default function Footer() {
 
 
-
-    
   return <>
-    
    <section className="bg-gray-200 py-8 antialiased dark:bg-gray-900 md:py-16">
   <div className="mx-auto max-w-screen-xl px-4 2xl:px-0">
     <div className="mx-auto max-w-5xl">
